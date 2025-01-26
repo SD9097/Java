@@ -18,7 +18,7 @@ public class Main {
         //int -2147483647 to 2147483647 bytes or -2^31 to 2^31-1
         //long -9223372036854775807 to 9223372036854775807 bytes or -2^63 to 2^63-1
         //float 1.4E-45 to 3.4028235E38 Single Precision 32 bit
-        //double 4.9E-324 to 1.7976931348623157E308  Double Precision 32 bit
+        //double 4.9E-324 to 1.7976931348623157E308  Double Precision 64 bit
         //char 0 to 65535 or 0 to 2^16-1 (It stores unicode characters)
         //boolean true or false
 
@@ -36,5 +36,20 @@ public class Main {
         System.out.println("The value of gender is "+ gender);
         System.out.println("Is it valid "+ isValid);
         System.out.println("The marks is "+ marks);
+
+        //Non-Primitive Data Types
+        //Any thing which is not a primitive data type is called as non-primitive data type
+        //All the non-primitive data types are classes
+        //All the non-primitive data types are objects
+        //All the non-primitive data types are reference data types
+        //Non-Primitive Data Types are Classes and predefined classes are String, Integer, Float, Double, Boolean, Char
+        String name = "John";
+        System.out.println("The name is "+ name);
+
+        //Wrapper Classes
+        //All the primitive data types have wrapper classes
+        //All the wrapper classes are classes
+        //All the wrapper classes are objects
+        //All the wrapper classes are reference data types
     }
 }
