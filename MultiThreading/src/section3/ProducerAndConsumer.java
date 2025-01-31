@@ -41,7 +41,7 @@ public class ProducerAndConsumer {
                     value = 0;
                     lock.wait();
                 }else{
-                    System.out.println("Remove: "+list.removeLast());
+                    System.out.println("Remove: "+list.remove(list.size()-1));
                     lock.notify();
                 }
                 Thread.sleep(500);

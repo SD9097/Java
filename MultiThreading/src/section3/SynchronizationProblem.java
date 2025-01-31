@@ -23,7 +23,7 @@ public class SynchronizationProblem {
 
     }
 
-    public  static synchronized   void increment1() {
+    public  static   void increment1() {
         synchronized (SynchronizationProblem.class) {
             counter2++;
         }

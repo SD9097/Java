@@ -5,7 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f4d5e1d-ea94-4b46-9375-551efb44170e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section1/TimeSlicingAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section1/ThreadLifeCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section1/ThreadLifeCycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section1/TimeSlicingAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section1/TimeSlicingAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/DaemonAndWorkerThreads.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/DaemonAndWorkerThreads.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/DaemonWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/DaemonWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/NormalWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/NormalWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/Runner8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/SequentialProcessing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/SequentialProcessing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/StartingThreadsRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/StartingThreadsRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/StartingThreadsThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/StartingThreadsThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/ThreadPriorityAndScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/ThreadPriorityAndScheduler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/WaitForThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/WaitForThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section2/Worker1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section2/Worker1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/LockingWithCustomObjects$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section3/LockingWithCustomObjects$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/LockingWithCustomObjects$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section3/LockingWithCustomObjects$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/LockingWithCustomObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section3/LockingWithCustomObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/Locks$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section3/Locks$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/Locks$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section3/Locks$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/Locks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section3/Locks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/MemoryManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThreading/section3/MemoryManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/Process.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/ProducerAndConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/ProducerAndConsumer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/ProducerAndConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/ProducerAndConsumerWithLock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/ProducerAndConsumerWithLock$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/ProducerAndConsumerWithLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/Synchronization$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/Synchronization$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/Synchronization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/SynchronizationProblem$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/SynchronizationProblem$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/SynchronizationProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/WaitAndNotify$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/WaitAndNotify$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/WaitAndNotify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/section3/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section3/ProducerAndConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section3/ProducerAndConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section3/SynchronizationProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section3/SynchronizationProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +70,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2sJPZWL3lJuuyyptFeI4u9lOrrh" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -33,20 +81,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "last_opened_file_path": "E:/Git Java/MultiThreading/src/section4",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.updates"
   }
-}</component>
-  <component name="RunManager" selected="Application.ProducerAndConsumerWithLock">
-    <configuration name="LockingWithCustomObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section3.LockingWithCustomObjects" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Git Java\MultiThreading\src\section4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CallableAndFutureExample">
+    <configuration name="CallableAndFutureExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section5.CallableAndFutureExample" />
       <module name="MultiThreading" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section3.*" />
+          <option name="PATTERN" value="Section5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,25 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Locks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section3.Locks" />
+    <configuration name="Deadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section4.Deadlock" />
       <module name="MultiThreading" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProducerAndConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section3.ProducerAndConsumer" />
-      <module name="MultiThreading" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section3.*" />
+          <option name="PATTERN" value="section4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +138,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaitAndNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section3.WaitAndNotify" />
+    <configuration name="SemaphoresExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section4.SemaphoresExamples" />
       <module name="MultiThreading" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section3.*" />
+          <option name="PATTERN" value="section4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Volatile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section4.Volatile" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CallableAndFutureExample" />
+        <item itemvalue="Application.SemaphoresExamples" />
+        <item itemvalue="Application.Deadlock" />
+        <item itemvalue="Application.Volatile" />
         <item itemvalue="Application.ProducerAndConsumerWithLock" />
-        <item itemvalue="Application.Locks" />
-        <item itemvalue="Application.ProducerAndConsumer" />
-        <item itemvalue="Application.WaitAndNotify" />
-        <item itemvalue="Application.LockingWithCustomObjects" />
       </list>
     </recent_temporary>
   </component>

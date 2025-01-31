@@ -81,3 +81,6 @@ public class ProducerAndConsumer {
 
     }
 }
+
+//In this for each iteration the notify will trigger but it will not notify instantly but will wait for other operation then in while
+//it check the condition and do operation until it hit wait condition then the previous notify will be triggered

@@ -16,6 +16,7 @@ public class SynchronizationProblem {
 
     //Dont use synchronized keyword on method level rather use synchronized block
     public  static  void increment() {
+        //class level locking
         synchronized (SynchronizationProblem.class) {
             counter1++;
         }
@@ -23,7 +24,9 @@ public class SynchronizationProblem {
     }
 
     public  static synchronized   void increment1() {
-        counter2++;
+        synchronized (SynchronizationProblem.class) {
+            counter2++;
+        }
     }
 
     public static void process() throws InterruptedException {

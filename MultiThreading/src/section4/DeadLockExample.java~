@@ -1,0 +1,46 @@
+package section4;
+
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
+
+public class DeadLockExample {
+
+    private Lock lock1 = new ReentrantLock();
+    private Lock lock2 = new ReentrantLock();
+
+    public static void main(String[] args) {
+
+        DeadLockExample deadLock = new DeadLockExample();
+
+        new Thread(DeadLockExample::Worker1,"worker")
+
+
+    }
+
+    public void Worker1() throws InterruptedException {
+        lock1.lock();
+        System.out.println("Worker 1 acquires the lock1");
+
+        Thread.sleep(3000);
+
+        lock2.lock();
+        System.out.println("Worker 1 acquires the lock2");
+
+        lock1.unlock();
+        lock2.unlock();
+    }
+
+    public void Worker2() throws InterruptedException {
+        lock2.lock();
+        System.out.println("Worker 2 acquires the lock2");
+
+        Thread.sleep(3000);
+
+        lock1.lock();
+        System.out.println("Worker 2 acquires the lock1");
+
+        lock1.unlock();
+        lock2.unlock();
+    }
+
+}
