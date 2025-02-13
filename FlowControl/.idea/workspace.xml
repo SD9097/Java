@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c7ce2eb-885e-44ce-a8d0-9e27acb0970c" name="Changes" comment="" />
+    <list default="true" id="efefd915-0525-4c48-b589-ce686b5ac061" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,21 +32,22 @@
     &quot;accountId&quot;: &quot;df9046a9-84d6-4099-805e-a24d0e11dc17&quot;
   }
 }</component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2s87uHPGfzHouEK24WvZuhMsoDm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2syK73i2FKzCyk724g7xhlvp15q" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "Application.Main.executor": "Run",
+    "Application.sumOfNNaturalNumbers.executor": "Run",
+    "Application.typeOfNumber.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.codeium.enabled": "true",
@@ -54,36 +55,56 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SwapTwoNumbers">
-    <configuration name="CocatenateIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CocatenateIntegers" />
-      <module name="VariablesAndDataTypes" />
+  <component name="RunManager" selected="Application.typeOfNumber">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="FlowControl" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwapTwoNumbers" />
-      <module name="VariablesAndDataTypes" />
+    <configuration name="sumOfNNaturalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.sumOfNNaturalNumbers" />
+      <module name="FlowControl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="typeOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.typeOfNumber" />
+      <module name="FlowControl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SwapTwoNumbers" />
-        <item itemvalue="Application.CocatenateIntegers" />
+        <item itemvalue="Application.typeOfNumber" />
+        <item itemvalue="Application.sumOfNNaturalNumbers" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0c7ce2eb-885e-44ce-a8d0-9e27acb0970c" name="Changes" comment="" />
-      <created>1737825568847</created>
+      <changelist id="efefd915-0525-4c48-b589-ce686b5ac061" name="Changes" comment="" />
+      <created>1739422205716</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1737825568847</updated>
+      <updated>1739422205716</updated>
     </task>
     <servers />
   </component>
